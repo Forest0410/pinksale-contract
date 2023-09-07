@@ -1,1 +1,1 @@
-# presale-contract
+# pinksale-contract
